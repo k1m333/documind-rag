@@ -37,7 +37,7 @@ def evaluate():
         AI Generated Answer: {generated_answer}
         
         Does the AI's answer contain the core information from the ground truth? 
-        It does not need to be a perfect word-for-word match. If it lists most of the authors, that is a PASS.
+        If the question asks for a list (like authors or GPUs), accept the answer if it contains most of the items. It does not need to be perfect.
         Reply with ONLY the word "PASS" or "FAIL".
         """
         

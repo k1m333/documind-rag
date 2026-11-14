@@ -19,7 +19,7 @@ def ingest():
     
     # 2. Chunking
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
+        chunk_size=2000,
         chunk_overlap=100,
         length_function=len,
     )
