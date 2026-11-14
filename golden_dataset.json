@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the BLEU score of the Transformer on the WMT 2014 English-to-German translation task?",
+    "ground_truth": "41.8"
+  },
+  {
+    "question": "How many GPUs were used to train the big Transformer model?",
+    "ground_truth": "8 GPUs"
+  },
+  {
+    "question": "What optimizer was used for training?",
+    "ground_truth": "Adam"
+  },
+  {
+    "question": "What is the name of the dataset used for English-to-German translation?",
+    "ground_truth": "WMT 2014"
+  },
+  {
+    "question": "Who are the authors of the paper?",
+    "ground_truth": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin"
+  }
+]
