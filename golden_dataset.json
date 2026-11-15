@@ -1,7 +1,7 @@
 [
   {
     "question": "What is the BLEU score of the Transformer on the WMT 2014 English-to-German translation task?",
-    "ground_truth": "41.8"
+    "ground_truth": "28.4"
   },
   {
     "question": "How many GPUs were used to train the big Transformer model?",
